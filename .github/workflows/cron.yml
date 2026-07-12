@@ -4,6 +4,10 @@ on:
     - cron: '*/20 * * * *'  # প্রতি 20 মিনিটে চলবে
   workflow_dispatch:
 
+# এই 2 লাইন অ্যাড করছি - পারমিশন দেওয়ার জন্য
+permissions:
+  contents: write
+
 jobs:
   run-bank:
     runs-on: ubuntu-latest
