@@ -1,0 +1,27 @@
+name: Offer Bot Cron
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # প্রতি 20 মিনিটে চলবে
+  workflow_dispatch:
+
+jobs:
+  run-bank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+      - name: Run Bank Cron
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: php cron_bank.php
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add offers_bank.txt telegram_log.txt
+          git commit -m "Update bank offers" || exit 0
+          git push
