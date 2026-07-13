@@ -79,3 +79,18 @@ Grasshopper Bank $300 Business C
 
 Best Posts Last Week: OBC Discon
 2026-07-13 17:47:13 - BANK: DONE. New: 4
+2026-07-13 21:15:41 - BANK: === BANK RUN START ===
+2026-07-13 21:15:42 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-13 21:15:44 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-13 21:15:44 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-13 21:15:44 - BANK: RSS OK: 8
+2026-07-13 21:15:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Update] Citi To Remove JetBlue 
+2026-07-13 21:15:47 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Chase/Wells Fargo Off
+2026-07-13 21:15:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Citi Strata Premier $
+2026-07-13 21:15:51 - BANK: DONE. New: 3
