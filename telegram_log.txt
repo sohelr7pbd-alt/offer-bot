@@ -121,3 +121,18 @@ Best Posts Last Week: OBC Discon
 2026-07-14 16:48:17 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-07-14 16:48:17 - BANK: RSS OK: 6
 2026-07-14 16:48:17 - BANK: DONE. New: 0
+2026-07-14 20:41:33 - BANK: === BANK RUN START ===
+2026-07-14 20:41:35 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-14 20:41:36 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-14 20:41:36 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-14 20:41:36 - BANK: RSS OK: 6
+2026-07-14 20:41:37 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Up To 50% 
+2026-07-14 20:41:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase $900 Checking + Savings Bo
+2026-07-14 20:41:42 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+New Capital One Spark Cash & Spa
+2026-07-14 20:41:44 - BANK: DONE. New: 3
