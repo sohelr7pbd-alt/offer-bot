@@ -94,3 +94,9 @@ Best Posts Last Week: OBC Discon
 
 [Targeted] Citi Strata Premier $
 2026-07-13 21:15:51 - BANK: DONE. New: 3
+2026-07-14 00:12:12 - BANK: === BANK RUN START ===
+2026-07-14 00:12:14 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-14 00:12:16 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-14 00:12:16 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-14 00:12:16 - BANK: RSS OK: 8
+2026-07-14 00:12:16 - BANK: DONE. New: 0
