@@ -136,3 +136,12 @@ Chase $900 Checking + Savings Bo
 
 New Capital One Spark Cash & Spa
 2026-07-14 20:41:44 - BANK: DONE. New: 3
+2026-07-14 23:38:19 - BANK: === BANK RUN START ===
+2026-07-14 23:38:20 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-14 23:38:21 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-14 23:38:21 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-14 23:38:21 - BANK: RSS OK: 5
+2026-07-14 23:38:22 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Capital One Shopping: Spe
+2026-07-14 23:38:24 - BANK: DONE. New: 1
