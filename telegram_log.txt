@@ -278,3 +278,15 @@ Chase World Of Hyatt Business Ca
 2026-07-17 11:59:41 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-07-17 11:59:41 - BANK: RSS OK: 6
 2026-07-17 11:59:41 - BANK: DONE. New: 0
+2026-07-17 16:37:17 - BANK: === BANK RUN START ===
+2026-07-17 16:37:19 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-17 16:37:20 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-17 16:37:20 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-17 16:37:20 - BANK: RSS OK: 6
+2026-07-17 16:37:20 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Truist $400/$800 Business Checki
+2026-07-17 16:37:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Ends 7/19] AmEx Offers: Amazon,
+2026-07-17 16:37:25 - BANK: DONE. New: 2
