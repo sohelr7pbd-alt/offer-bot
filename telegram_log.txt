@@ -290,3 +290,18 @@ Truist $400/$800 Business Checki
 
 [Ends 7/19] AmEx Offers: Amazon,
 2026-07-17 16:37:25 - BANK: DONE. New: 2
+2026-07-17 20:14:42 - BANK: === BANK RUN START ===
+2026-07-17 20:14:43 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-17 20:14:45 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-17 20:14:45 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-17 20:14:45 - BANK: RSS OK: 6
+2026-07-17 20:14:45 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offer: Viator, S
+2026-07-17 20:14:48 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+U.S. Bank/Chime Offers: T-Mobile
+2026-07-17 20:14:50 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Offers: Get 15% Back At Sto
+2026-07-17 20:14:52 - BANK: DONE. New: 3
