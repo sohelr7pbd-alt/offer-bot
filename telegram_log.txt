@@ -341,3 +341,30 @@ Capital One: MLB Tickets For 5,0
 
 [TX only] Texas Capital Bank $20
 2026-07-18 14:37:19 - BANK: DONE. New: 2
+2026-07-18 17:43:09 - BANK: === BANK RUN START ===
+2026-07-18 17:43:11 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-18 17:43:13 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-18 17:43:13 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-18 17:43:13 - BANK: RSS OK: 13
+2026-07-18 17:43:13 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA] First US Community Credit U
+2026-07-18 17:43:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[NY only] Summit Federal Credit 
+2026-07-18 17:43:18 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[TX, MO, OK] Regent Bank $200 Re
+2026-07-18 17:43:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[PA] Penn East Federal Credit Un
+2026-07-18 17:43:24 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[NY, OH, IN, PA] Northwest Bank 
+2026-07-18 17:43:26 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[OH] Telhio Credit Union $250 Ch
+2026-07-18 17:43:29 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[WA only] WSECU $500 Checking Bo
+2026-07-18 17:43:31 - BANK: DONE. New: 7
