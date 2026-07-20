@@ -443,3 +443,12 @@ Capital One: MLB Tickets For 5,0
 
 [Marines & Family] Marine Federa
 2026-07-19 21:10:29 - BANK: DONE. New: 3
+2026-07-20 08:25:59 - BANK: === BANK RUN START ===
+2026-07-20 08:26:03 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-20 08:26:04 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-20 08:26:04 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-20 08:26:04 - BANK: RSS OK: 10
+2026-07-20 08:26:05 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IN, MI] 1st Source Bank $250  C
+2026-07-20 08:26:07 - BANK: DONE. New: 1
