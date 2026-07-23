@@ -582,3 +582,12 @@ Bank of America Air France/KLM F
 
 Chase Amazon Prime Shutdown (Lar
 2026-07-23 16:03:26 - BANK: DONE. New: 2
+2026-07-23 20:19:58 - BANK: === BANK RUN START ===
+2026-07-23 20:19:59 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-23 20:20:01 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-23 20:20:01 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-23 20:20:01 - BANK: RSS OK: 6
+2026-07-23 20:20:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Ends 7/30] Chase Sapphire Prefe
+2026-07-23 20:20:03 - BANK: DONE. New: 1
