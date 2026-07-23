@@ -570,3 +570,15 @@ T-Mobile $250 Referral Bonus For
 
 Bank of America Air France/KLM F
 2026-07-23 09:14:46 - BANK: DONE. New: 4
+2026-07-23 16:03:18 - BANK: === BANK RUN START ===
+2026-07-23 16:03:20 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-23 16:03:21 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-23 16:03:21 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-23 16:03:21 - BANK: RSS OK: 7
+2026-07-23 16:03:22 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Bank of America Business 
+2026-07-23 16:03:24 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Amazon Prime Shutdown (Lar
+2026-07-23 16:03:26 - BANK: DONE. New: 2
