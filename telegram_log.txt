@@ -819,3 +819,12 @@ Chipotle: Free Chips & Guac With
 
 Huntington Business Voice Credit
 2026-07-29 16:00:45 - BANK: DONE. New: 2
+2026-07-29 20:16:30 - BANK: === BANK RUN START ===
+2026-07-29 20:16:33 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-07-29 20:16:34 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-07-29 20:16:35 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-07-29 20:16:35 - BANK: RSS OK: 8
+2026-07-29 20:16:35 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Apple Card $300 Signu
+2026-07-29 20:16:37 - BANK: DONE. New: 1
