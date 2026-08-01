@@ -915,3 +915,15 @@ Chase Will Cut Priority Pass Lou
 
 Capital One Offers: Spend $20+, 
 2026-07-31 20:51:20 - BANK: DONE. New: 1
+2026-08-01 00:13:28 - BANK: === BANK RUN START ===
+2026-08-01 00:13:30 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-01 00:13:31 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-01 00:13:31 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-01 00:13:31 - BANK: RSS OK: 10
+2026-08-01 00:13:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Barclays $200-$400 Savings Bonus
+2026-08-01 00:13:34 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Sapphire Lounges Removing 
+2026-08-01 00:13:36 - BANK: DONE. New: 2
