@@ -1056,3 +1056,18 @@ Citi Files Trademark For ‘Citi
 
 Citi AAdvantage Executive Card R
 2026-08-03 18:58:50 - BANK: DONE. New: 3
+2026-08-03 22:36:36 - BANK: === BANK RUN START ===
+2026-08-03 22:36:37 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-03 22:36:39 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-03 22:36:39 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-03 22:36:39 - BANK: RSS OK: 11
+2026-08-03 22:36:40 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Refreshes American Airlines
+2026-08-03 22:36:42 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Airline Shopping Portals: Get Up
+2026-08-03 22:36:45 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Save On Visible, To
+2026-08-03 22:36:47 - BANK: DONE. New: 3
