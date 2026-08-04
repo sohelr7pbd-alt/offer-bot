@@ -1095,3 +1095,12 @@ Citi ThankYou Points 40% Transfe
 
 Chase Offers: Save 10% on Lyft, 
 2026-08-04 16:23:23 - BANK: DONE. New: 3
+2026-08-04 20:58:22 - BANK: === BANK RUN START ===
+2026-08-04 20:58:24 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-04 20:58:26 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-04 20:58:26 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-04 20:58:26 - BANK: RSS OK: 8
+2026-08-04 20:58:26 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Select Best Western
+2026-08-04 20:58:28 - BANK: DONE. New: 1
