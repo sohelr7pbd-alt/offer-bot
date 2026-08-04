@@ -1080,3 +1080,18 @@ AmEx Offers: Save On Visible, To
 
 [Update] [Expired] Ivy Bank $200
 2026-08-04 08:05:31 - BANK: DONE. New: 1
+2026-08-04 16:23:12 - BANK: === BANK RUN START ===
+2026-08-04 16:23:14 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-04 16:23:16 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-04 16:23:16 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-04 16:23:16 - BANK: RSS OK: 9
+2026-08-04 16:23:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers: Get 15% Back on T-
+2026-08-04 16:23:19 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi ThankYou Points 40% Transfe
+2026-08-04 16:23:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers: Save 10% on Lyft, 
+2026-08-04 16:23:23 - BANK: DONE. New: 3
