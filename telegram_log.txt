@@ -1155,3 +1155,12 @@ Bank of America Updates Travel P
 
 [Targeted] AmEx Offers: Accor Lu
 2026-08-05 18:09:44 - BANK: DONE. New: 3
+2026-08-05 22:21:21 - BANK: === BANK RUN START ===
+2026-08-05 22:21:23 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-05 22:21:24 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-05 22:21:24 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-05 22:21:24 - BANK: RSS OK: 8
+2026-08-05 22:21:24 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+This Citi Dining Perk Scored Me 
+2026-08-05 22:21:26 - BANK: DONE. New: 1
