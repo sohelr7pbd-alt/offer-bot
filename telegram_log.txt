@@ -1173,3 +1173,18 @@ This Citi Dining Perk Scored Me
 
 [Targeted] Bank of America Unlim
 2026-08-06 08:03:50 - BANK: DONE. New: 1
+2026-08-07 01:43:48 - BANK: === BANK RUN START ===
+2026-08-07 01:43:49 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-07 01:43:50 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-07 01:43:50 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-07 01:43:50 - BANK: RSS OK: 5
+2026-08-07 01:43:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers (Platinum): Hertz, S
+2026-08-07 01:43:53 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+TD Bank Launches ‘Double Up’
+2026-08-07 01:43:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase IHG Premier: 160K Points +
+2026-08-07 01:43:58 - BANK: DONE. New: 3
