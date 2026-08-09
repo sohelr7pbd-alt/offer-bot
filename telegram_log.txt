@@ -1428,3 +1428,9 @@ Chase Marriott Bonvoy Boundless
 
 [MA, NH] Cambridge Savings Bank 
 2026-08-09 21:04:05 - BANK: DONE. New: 1
+2026-08-09 22:58:49 - BANK: === BANK RUN START ===
+2026-08-09 22:58:50 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-09 22:58:52 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-09 22:58:52 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-09 22:58:52 - BANK: RSS OK: 13
+2026-08-09 22:58:52 - BANK: DONE. New: 0
