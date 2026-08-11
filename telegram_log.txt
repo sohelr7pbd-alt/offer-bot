@@ -1533,3 +1533,21 @@ Citi / AAdvantage Platinum Selec
 
 [Targeted] Citi ThankYou (Former
 2026-08-11 14:45:45 - BANK: DONE. New: 1
+2026-08-11 18:05:39 - BANK: === BANK RUN START ===
+2026-08-11 18:05:40 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-11 18:05:41 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-11 18:05:41 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-11 18:05:41 - BANK: RSS OK: 11
+2026-08-11 18:05:42 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Chase Freedom Unlimit
+2026-08-11 18:05:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shutdowns Can Cause 
+2026-08-11 18:05:47 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Up To 55% 
+2026-08-11 18:05:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Maximizing the $200 Blacklane Cr
+2026-08-11 18:05:51 - BANK: DONE. New: 4
