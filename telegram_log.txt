@@ -1971,3 +1971,12 @@ Capital One Shopping: Get 70% Ba
 2026-08-14 20:45:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-14 20:45:59 - BANK: RSS OK: 8
 2026-08-14 20:45:59 - BANK: DONE. New: 0
+2026-08-14 21:14:17 - BANK: === BANK RUN START ===
+2026-08-14 21:14:18 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-14 21:14:20 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-14 21:14:20 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-14 21:14:20 - BANK: RSS OK: 7
+2026-08-14 21:14:20 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten: Get $100 For Chase INK 
+2026-08-14 21:14:22 - BANK: DONE. New: 1
