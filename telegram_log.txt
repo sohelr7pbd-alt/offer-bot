@@ -1947,3 +1947,15 @@ Citi Offers: bp and/or Amoco Fue
 2026-08-14 18:28:03 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-14 18:28:03 - BANK: RSS OK: 7
 2026-08-14 18:28:03 - BANK: DONE. New: 0
+2026-08-14 19:32:50 - BANK: === BANK RUN START ===
+2026-08-14 19:32:51 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-14 19:32:53 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-14 19:32:53 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-14 19:32:53 - BANK: RSS OK: 9
+2026-08-14 19:32:53 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Capital One Offers: G
+2026-08-14 19:32:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Get 70% Ba
+2026-08-14 19:32:58 - BANK: DONE. New: 2
