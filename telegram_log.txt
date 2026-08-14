@@ -1920,3 +1920,12 @@ Chase Offers: 7% Cashback at Hya
 2026-08-14 14:47:07 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-14 14:47:07 - BANK: RSS OK: 7
 2026-08-14 14:47:07 - BANK: DONE. New: 0
+2026-08-14 15:40:07 - BANK: === BANK RUN START ===
+2026-08-14 15:40:09 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-14 15:40:11 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-14 15:40:11 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-14 15:40:11 - BANK: RSS OK: 7
+2026-08-14 15:40:11 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Offers: bp and/or Amoco Fue
+2026-08-14 15:40:14 - BANK: DONE. New: 1
