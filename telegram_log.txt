@@ -3063,3 +3063,12 @@ Staples: 100% Back In Points On
 2026-08-18 16:17:55 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-18 16:17:55 - BANK: RSS OK: 6
 2026-08-18 16:17:55 - BANK: DONE. New: 0
+2026-08-18 16:50:32 - BANK: === BANK RUN START ===
+2026-08-18 16:50:37 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-18 16:50:39 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-18 16:50:39 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-18 16:50:39 - BANK: RSS OK: 6
+2026-08-18 16:50:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Get Up To 
+2026-08-18 16:50:41 - BANK: DONE. New: 1
