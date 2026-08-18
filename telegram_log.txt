@@ -3072,3 +3072,9 @@ Staples: 100% Back In Points On
 
 Capital One Shopping: Get Up To 
 2026-08-18 16:50:41 - BANK: DONE. New: 1
+2026-08-18 17:17:00 - BANK: === BANK RUN START ===
+2026-08-18 17:17:02 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-18 17:17:03 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-18 17:17:03 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-18 17:17:03 - BANK: RSS OK: 6
+2026-08-18 17:17:03 - BANK: DONE. New: 0
