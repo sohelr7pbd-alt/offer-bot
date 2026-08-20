@@ -3549,3 +3549,9 @@ Capital One Shopping: Get 30% Ba
 
 Citi Offers: Caesars Rewards, Sp
 2026-08-20 16:02:23 - BANK: DONE. New: 2
+2026-08-20 16:50:57 - BANK: === BANK RUN START ===
+2026-08-20 16:50:58 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-20 16:50:59 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-20 16:50:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-20 16:50:59 - BANK: RSS OK: 6
+2026-08-20 16:50:59 - BANK: DONE. New: 0
