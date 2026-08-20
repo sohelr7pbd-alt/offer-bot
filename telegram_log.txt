@@ -3573,3 +3573,15 @@ Citi Offers: Caesars Rewards, Sp
 2026-08-20 18:20:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-20 18:20:59 - BANK: RSS OK: 6
 2026-08-20 18:20:59 - BANK: DONE. New: 0
+2026-08-20 19:14:59 - BANK: === BANK RUN START ===
+2026-08-20 19:15:01 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-20 19:15:02 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-20 19:15:02 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-20 19:15:02 - BANK: RSS OK: 7
+2026-08-20 19:15:03 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten: Get $100 For Chase INK 
+2026-08-20 19:15:05 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Get 30%-60
+2026-08-20 19:15:07 - BANK: DONE. New: 2
