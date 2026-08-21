@@ -3837,3 +3837,12 @@ Aven Rewards Checking + Rewards
 2026-08-21 20:12:32 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-21 20:12:32 - BANK: RSS OK: 7
 2026-08-21 20:12:32 - BANK: DONE. New: 0
+2026-08-21 20:41:57 - BANK: === BANK RUN START ===
+2026-08-21 20:41:59 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-21 20:42:00 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-21 20:42:00 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-21 20:42:00 - BANK: RSS OK: 8
+2026-08-21 20:42:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+SoFi Invest 2% Cash Deposit Matc
+2026-08-21 20:42:03 - BANK: DONE. New: 1
