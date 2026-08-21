@@ -3786,3 +3786,12 @@ Aven Rewards Checking + Rewards
 2026-08-21 16:01:19 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-21 16:01:19 - BANK: RSS OK: 10
 2026-08-21 16:01:19 - BANK: DONE. New: 0
+2026-08-21 16:51:47 - BANK: === BANK RUN START ===
+2026-08-21 16:51:48 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-21 16:51:49 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-21 16:51:49 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-21 16:51:49 - BANK: RSS OK: 10
+2026-08-21 16:51:50 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Expired] Capital One Shopping: 
+2026-08-21 16:51:52 - BANK: DONE. New: 1
