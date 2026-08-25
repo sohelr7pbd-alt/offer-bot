@@ -4888,3 +4888,12 @@ Capital One Shopping: Get 45% Ba
 
 Capital One Shopping: Get 50% Ba
 2026-08-25 16:55:56 - BANK: DONE. New: 1
+2026-08-25 17:22:57 - BANK: === BANK RUN START ===
+2026-08-25 17:22:59 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-25 17:23:00 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-25 17:23:01 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-25 17:23:01 - BANK: RSS OK: 3
+2026-08-25 17:23:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Ending Soon] Capital One Spark 
+2026-08-25 17:23:03 - BANK: DONE. New: 1
