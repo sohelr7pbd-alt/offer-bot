@@ -5161,3 +5161,15 @@ Delta Credit Cards Unveil New Li
 2026-08-28 07:26:52 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-28 07:26:52 - BANK: RSS OK: 6
 2026-08-28 07:26:52 - BANK: DONE. New: 0
+2026-08-28 19:34:15 - BANK: === BANK RUN START ===
+2026-08-28 19:34:17 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-28 19:34:18 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-28 19:34:18 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-28 19:34:18 - BANK: RSS OK: 6
+2026-08-28 19:34:19 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+(Update) Citi / AAdvantage Plati
+2026-08-28 19:34:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Allegiant Air, Spen
+2026-08-28 19:34:23 - BANK: DONE. New: 2
