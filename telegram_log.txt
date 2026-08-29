@@ -5194,3 +5194,9 @@ AmEx Offers: Allegiant Air, Spen
 
 [NJ only] Columbia Bank $500 Che
 2026-08-29 14:40:14 - BANK: DONE. New: 1
+2026-08-29 17:53:05 - BANK: === BANK RUN START ===
+2026-08-29 17:53:07 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-29 17:53:08 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-29 17:53:08 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-29 17:53:08 - BANK: RSS OK: 5
+2026-08-29 17:53:08 - BANK: DONE. New: 0
