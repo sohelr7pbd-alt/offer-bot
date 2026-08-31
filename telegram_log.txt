@@ -5284,3 +5284,18 @@ Capital One Shopping: Up To 22%
 
 Citi Ending Grandfathered Barcla
 2026-08-31 17:45:13 - BANK: DONE. New: 2
+2026-08-31 22:08:04 - BANK: === BANK RUN START ===
+2026-08-31 22:08:06 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-31 22:08:07 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-31 22:08:07 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-31 22:08:07 - BANK: RSS OK: 8
+2026-08-31 22:08:08 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase IHG Business Card Annivers
+2026-08-31 22:08:10 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Maximizing the $200 Blacklane Cr
+2026-08-31 22:08:12 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[NY, OH, IN, PA] Northwest Bank 
+2026-08-31 22:08:14 - BANK: DONE. New: 3
