@@ -5272,3 +5272,15 @@ Chase Offers: DISH Network, Spen
 2026-08-31 10:55:02 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-08-31 10:55:02 - BANK: RSS OK: 7
 2026-08-31 10:55:02 - BANK: DONE. New: 0
+2026-08-31 17:45:04 - BANK: === BANK RUN START ===
+2026-08-31 17:45:07 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-08-31 17:45:08 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-08-31 17:45:08 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-08-31 17:45:08 - BANK: RSS OK: 8
+2026-08-31 17:45:09 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Up To 22% 
+2026-08-31 17:45:11 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Ending Grandfathered Barcla
+2026-08-31 17:45:13 - BANK: DONE. New: 2
