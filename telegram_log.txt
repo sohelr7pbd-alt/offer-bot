@@ -5365,3 +5365,18 @@ AmEx Offers: Lowe’s, Spend $10
 
 Rakuten Adds Bank Of America Car
 2026-09-01 18:57:12 - BANK: DONE. New: 7
+2026-09-01 21:31:09 - BANK: === BANK RUN START ===
+2026-09-01 21:31:11 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-01 21:31:12 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-01 21:31:12 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-01 21:31:12 - BANK: RSS OK: 14
+2026-09-01 21:31:13 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Transfer Bonus: 30% 
+2026-09-01 21:31:15 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Sapphire Reserve Adding Do
+2026-09-01 21:31:17 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Expired] Increased Signup Bonus
+2026-09-01 21:31:19 - BANK: DONE. New: 3
