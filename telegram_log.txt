@@ -5479,3 +5479,27 @@ Bank of America $100-$500 Checki
 
 [Rumor] Chase To Refresh Freedom
 2026-09-03 14:36:21 - BANK: DONE. New: 1
+2026-09-03 18:00:12 - BANK: === BANK RUN START ===
+2026-09-03 18:00:14 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-03 18:00:16 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-03 18:00:16 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-03 18:00:16 - BANK: RSS OK: 8
+2026-09-03 18:00:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Square Business Credi
+2026-09-03 18:00:18 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+American Express $300 Checking B
+2026-09-03 18:00:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Offers: AT&T Wireless, $50 
+2026-09-03 18:00:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers: DirecTV, Spend $10
+2026-09-03 18:00:26 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi/Chase Offers: Get Up To 15%
+2026-09-03 18:00:28 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi AAdvantage Executive Welcom
+2026-09-03 18:00:30 - BANK: DONE. New: 6
