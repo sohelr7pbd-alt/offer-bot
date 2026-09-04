@@ -5572,3 +5572,12 @@ Navy Federal American Express Mo
 
 [Targeted] AmEx Offers: Ikon Pas
 2026-09-04 19:59:26 - BANK: DONE. New: 2
+2026-09-04 22:08:43 - BANK: === BANK RUN START ===
+2026-09-04 22:08:45 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-04 22:08:47 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-04 22:08:47 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-04 22:08:47 - BANK: RSS OK: 6
+2026-09-04 22:08:47 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Amazon: $25 Credit When You Purc
+2026-09-04 22:08:49 - BANK: DONE. New: 1
