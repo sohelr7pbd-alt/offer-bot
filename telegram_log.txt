@@ -5647,3 +5647,15 @@ Rakuten Adds Bank Of America Car
 
 [Targeted] AmEx Offers: Platinum
 2026-09-05 18:47:58 - BANK: DONE. New: 3
+2026-09-05 20:47:45 - BANK: === BANK RUN START ===
+2026-09-05 20:47:48 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-05 20:47:50 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-05 20:47:50 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-05 20:47:50 - BANK: RSS OK: 10
+2026-09-05 20:47:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[OR, CA, NV] Sage Credit Union $
+2026-09-05 20:47:53 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA, In Branch only] Golden 1 Cr
+2026-09-05 20:47:55 - BANK: DONE. New: 2
