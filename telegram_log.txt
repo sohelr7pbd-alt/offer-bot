@@ -5791,3 +5791,12 @@ Rakuten Adds Bank Of America Car
 
 Best Posts Last Week: Bank of Am
 2026-09-07 17:53:09 - BANK: DONE. New: 5
+2026-09-07 20:52:55 - BANK: === BANK RUN START ===
+2026-09-07 20:52:57 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-07 20:52:59 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-07 20:52:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-07 20:52:59 - BANK: RSS OK: 7
+2026-09-07 20:53:00 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Amazon: $45 Credit When You Purc
+2026-09-07 20:53:02 - BANK: DONE. New: 1
