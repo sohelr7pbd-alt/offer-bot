@@ -5899,3 +5899,16 @@ Chase Offers/BofA: 10% Back On B
 
 Capital One Shopping: Up To 29% 
 2026-09-09 18:49:26 - BANK: DONE. New: 2
+2026-09-09 21:20:16 - BANK: === BANK RUN START ===
+2026-09-09 21:20:19 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-09 21:20:20 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-09 21:20:20 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-09 21:20:20 - BANK: RSS OK: 9
+2026-09-09 21:20:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+U.S. Bank $450 Checking Bonus
+ht
+2026-09-09 21:20:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Venture Adds $300 Ho
+2026-09-09 21:20:25 - BANK: DONE. New: 2
