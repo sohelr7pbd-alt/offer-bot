@@ -5975,3 +5975,12 @@ Hilton Credit Cards Unveil New W
 2026-09-10 21:10:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-09-10 21:10:43 - BANK: RSS OK: 8
 2026-09-10 21:10:43 - BANK: DONE. New: 0
+2026-09-10 23:11:24 - BANK: === BANK RUN START ===
+2026-09-10 23:11:26 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-10 23:11:27 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-10 23:11:27 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-10 23:11:27 - BANK: RSS OK: 8
+2026-09-10 23:11:28 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Aeroplan Credit Card Boosts Annu
+2026-09-10 23:11:30 - BANK: DONE. New: 1
