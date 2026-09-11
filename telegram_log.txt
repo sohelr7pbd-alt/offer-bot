@@ -5993,3 +5993,15 @@ Aeroplan Credit Card Boosts Annu
 
 Citi: Self Invest Up To $1,000 B
 2026-09-11 01:06:40 - BANK: DONE. New: 1
+2026-09-11 06:01:03 - BANK: === BANK RUN START ===
+2026-09-11 06:01:05 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-11 06:01:07 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-11 06:01:07 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-11 06:01:07 - BANK: RSS OK: 6
+2026-09-11 06:01:07 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Offers: Use Any Offe
+2026-09-11 06:01:10 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+(YMMV) Capital One Shopping: Get
+2026-09-11 06:01:12 - BANK: DONE. New: 2
