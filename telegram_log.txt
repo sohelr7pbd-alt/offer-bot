@@ -6005,3 +6005,9 @@ Capital One Offers: Use Any Offe
 
 (YMMV) Capital One Shopping: Get
 2026-09-11 06:01:12 - BANK: DONE. New: 2
+2026-09-11 11:22:41 - BANK: === BANK RUN START ===
+2026-09-11 11:22:43 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-11 11:22:45 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-11 11:22:45 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-11 11:22:45 - BANK: RSS OK: 6
+2026-09-11 11:22:45 - BANK: DONE. New: 0
