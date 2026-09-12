@@ -406,3 +406,4 @@ Bank of America Atmos Alaska Airlines Business Card 85,000 Miles
 [LA, MS, FL, AL, TX] Hancock Whitney Bank $600/$1,000 Checking & Savings Bonus
 [WV, PA, OH, IN, KY, MD, In Branch] Wesbanco $300 Checking Bonus
 [DC, DE, PA, VA, WV, MD] SECU $350 Checking Bonus
+[MA, ME, NH] Camden National Bank $300 Checking Bonus + $200 Savings Bonus
