@@ -6131,3 +6131,15 @@ Bank of America Atmos Alaska Air
 2026-09-13 10:21:09 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-09-13 10:21:09 - BANK: RSS OK: 13
 2026-09-13 10:21:09 - BANK: DONE. New: 0
+2026-09-13 14:37:45 - BANK: === BANK RUN START ===
+2026-09-13 14:37:47 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-13 14:37:48 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-13 14:37:48 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-13 14:37:48 - BANK: RSS OK: 14
+2026-09-13 14:37:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[OR, ID, Northern CA] Rogue Cred
+2026-09-13 14:37:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CT only] Mutual Security Credit
+2026-09-13 14:37:53 - BANK: DONE. New: 2

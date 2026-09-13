@@ -407,3 +407,5 @@ Bank of America Atmos Alaska Airlines Business Card 85,000 Miles
 [WV, PA, OH, IN, KY, MD, In Branch] Wesbanco $300 Checking Bonus
 [DC, DE, PA, VA, WV, MD] SECU $350 Checking Bonus
 [MA, ME, NH] Camden National Bank $300 Checking Bonus + $200 Savings Bonus
+[OR, ID, Northern CA] Rogue Credit Union $500 Checking Bonus, Direct Deposit Not Required
+[CT only] Mutual Security Credit Union $250 Business Checking Bonus
