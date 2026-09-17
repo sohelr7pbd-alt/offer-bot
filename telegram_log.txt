@@ -6437,3 +6437,9 @@ Capital One Shopping Referral Bo
 
 Capital One Shopping/Offers: Up 
 2026-09-17 20:41:22 - BANK: DONE. New: 3
+2026-09-17 23:12:34 - BANK: === BANK RUN START ===
+2026-09-17 23:12:36 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-17 23:12:38 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-17 23:12:38 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-17 23:12:38 - BANK: RSS OK: 11
+2026-09-17 23:12:38 - BANK: DONE. New: 0
