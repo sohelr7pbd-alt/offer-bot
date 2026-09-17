@@ -6401,3 +6401,24 @@ E*Trade $400-$800 Savings Bonus
 
 Chase Sapphire Reserve for Busin
 2026-09-17 13:29:21 - BANK: DONE. New: 1
+2026-09-17 17:43:39 - BANK: === BANK RUN START ===
+2026-09-17 17:43:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-17 17:43:43 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-17 17:43:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-17 17:43:43 - BANK: RSS OK: 11
+2026-09-17 17:43:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping/Offers: Up 
+2026-09-17 17:43:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Sapphire Reserve for Busin
+2026-09-17 17:43:48 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Sapphire Reserve for Busin
+2026-09-17 17:43:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase/BofA/Wells/USB: YouTube TV
+2026-09-17 17:43:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+I Used Credit Card Rewards to Fu
+2026-09-17 17:43:56 - BANK: DONE. New: 5
