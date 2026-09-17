@@ -6422,3 +6422,18 @@ Chase/BofA/Wells/USB: YouTube TV
 
 I Used Credit Card Rewards to Fu
 2026-09-17 17:43:56 - BANK: DONE. New: 5
+2026-09-17 20:41:08 - BANK: === BANK RUN START ===
+2026-09-17 20:41:13 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-17 20:41:15 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-17 20:41:15 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-17 20:41:15 - BANK: RSS OK: 12
+2026-09-17 20:41:15 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Merrill Edge Brokerage: Up To $1
+2026-09-17 20:41:17 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping Referral Bo
+2026-09-17 20:41:20 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping/Offers: Up 
+2026-09-17 20:41:22 - BANK: DONE. New: 3
