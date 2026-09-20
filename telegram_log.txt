@@ -6578,3 +6578,21 @@ Staples: No Purchase Fee On $200
 2026-09-20 11:32:02 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-09-20 11:32:02 - BANK: RSS OK: 13
 2026-09-20 11:32:02 - BANK: DONE. New: 0
+2026-09-20 14:49:00 - BANK: === BANK RUN START ===
+2026-09-20 14:49:02 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-20 14:49:03 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-20 14:49:03 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-20 14:49:03 - BANK: RSS OK: 16
+2026-09-20 14:49:04 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[MO] Sterling Bank $100 Checking
+2026-09-20 14:49:06 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[UT, ID, NV, NM, MT, AZ] Mountai
+2026-09-20 14:49:08 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Adds Japan Airlines As 1:1 
+2026-09-20 14:49:11 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Adds Japan Airlines as Its 
+2026-09-20 14:49:13 - BANK: DONE. New: 4
