@@ -6596,3 +6596,24 @@ Citi Adds Japan Airlines As 1:1
 
 Citi Adds Japan Airlines as Its 
 2026-09-20 14:49:13 - BANK: DONE. New: 4
+2026-09-20 17:46:29 - BANK: === BANK RUN START ===
+2026-09-20 17:46:30 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-20 17:46:32 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-20 17:46:32 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-20 17:46:32 - BANK: RSS OK: 17
+2026-09-20 17:46:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Limited Cities In MO, IL, AR, C
+2026-09-20 17:46:35 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Freedom Q1 2027 Categories
+2026-09-20 17:46:37 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+American Express Platinum 175,00
+2026-09-20 17:46:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IN] GBC Bank $300 Checking Bonu
+2026-09-20 17:46:42 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[TN, SC, OH, IN, KY, NC] Park Na
+2026-09-20 17:46:44 - BANK: DONE. New: 5
