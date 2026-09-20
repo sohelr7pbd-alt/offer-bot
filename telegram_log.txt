@@ -6617,3 +6617,18 @@ American Express Platinum 175,00
 
 [TN, SC, OH, IN, KY, NC] Park Na
 2026-09-20 17:46:44 - BANK: DONE. New: 5
+2026-09-20 19:54:41 - BANK: === BANK RUN START ===
+2026-09-20 19:54:42 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-20 19:54:43 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-20 19:54:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-20 19:54:43 - BANK: RSS OK: 17
+2026-09-20 19:54:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[FL Only] Connect Credit Union $
+2026-09-20 19:54:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[UT Only] Chartway Federal Credi
+2026-09-20 19:54:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers/WF/USB: Get Up To 1
+2026-09-20 19:54:51 - BANK: DONE. New: 3
