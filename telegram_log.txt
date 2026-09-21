@@ -6650,3 +6650,9 @@ Citi ThankYou Points 25% Transfe
 
 [IA & SD, In Branch Only] Securi
 2026-09-20 22:00:37 - BANK: DONE. New: 4
+2026-09-21 00:16:57 - BANK: === BANK RUN START ===
+2026-09-21 00:16:59 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-21 00:17:00 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-21 00:17:00 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-21 00:17:00 - BANK: RSS OK: 16
+2026-09-21 00:17:00 - BANK: DONE. New: 0
