@@ -6743,3 +6743,12 @@ Chase Now Allows Product Change
 
 Chase Freedom Flex Ditches Forei
 2026-09-22 20:26:47 - BANK: DONE. New: 1
+2026-09-22 23:13:28 - BANK: === BANK RUN START ===
+2026-09-22 23:13:30 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-22 23:13:31 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-22 23:13:31 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-22 23:13:31 - BANK: RSS OK: 8
+2026-09-22 23:13:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Offers: Uber & UberEats Dea
+2026-09-22 23:13:34 - BANK: DONE. New: 1
