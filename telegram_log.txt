@@ -6770,3 +6770,12 @@ Citi Offers: Uber & UberEats Dea
 2026-09-23 12:03:17 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-09-23 12:03:17 - BANK: RSS OK: 8
 2026-09-23 12:03:17 - BANK: DONE. New: 0
+2026-09-23 17:00:42 - BANK: === BANK RUN START ===
+2026-09-23 17:00:44 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-23 17:00:46 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-23 17:00:46 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-23 17:00:46 - BANK: RSS OK: 8
+2026-09-23 17:00:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers: Airbnb E
+2026-09-23 17:00:48 - BANK: DONE. New: 1
