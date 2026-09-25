@@ -6884,3 +6884,15 @@ Chase Launches New Design On Cha
 
 (9/25) Capital One Shopping: 9%-
 2026-09-25 17:30:00 - BANK: DONE. New: 1
+2026-09-25 20:42:37 - BANK: === BANK RUN START ===
+2026-09-25 20:42:39 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-25 20:42:40 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-25 20:42:40 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-25 20:42:40 - BANK: RSS OK: 6
+2026-09-25 20:42:41 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Southwest Business Card 80
+2026-09-25 20:42:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Venmo Credit Card Changes 3% & 2
+2026-09-25 20:42:45 - BANK: DONE. New: 2
