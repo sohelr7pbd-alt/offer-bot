@@ -6926,3 +6926,15 @@ Purchase Heineken & $175 In Groc
 2026-09-26 12:40:26 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-09-26 12:40:26 - BANK: RSS OK: 7
 2026-09-26 12:40:26 - BANK: DONE. New: 0
+2026-09-26 16:44:13 - BANK: === BANK RUN START ===
+2026-09-26 16:44:15 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-26 16:44:16 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-26 16:44:16 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-26 16:44:16 - BANK: RSS OK: 8
+2026-09-26 16:44:17 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[WI only, In Branch] WaterStone 
+2026-09-26 16:44:19 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[MA & CT only] PeoplesBank (Bank
+2026-09-26 16:44:21 - BANK: DONE. New: 2
