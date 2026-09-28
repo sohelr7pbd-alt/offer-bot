@@ -7022,3 +7022,27 @@ Bank of America $400-$2,500 Busi
 
 Rakuten: $150 Bonus For Citi Str
 2026-09-28 13:57:18 - BANK: DONE. New: 1
+2026-09-28 20:20:41 - BANK: === BANK RUN START ===
+2026-09-28 20:20:47 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-28 20:20:49 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-28 20:20:49 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-28 20:20:49 - BANK: RSS OK: 10
+2026-09-28 20:20:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Frontier Airlines, 
+2026-09-28 20:20:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: JetBlue, Spend $400
+2026-09-28 20:20:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+JPMorgan Chase Looks To Open ‘
+2026-09-28 20:20:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers: Get 25% Back On Wo
+2026-09-28 20:20:59 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Adding Once Per Lifetime L
+2026-09-28 20:21:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Will My Capital One Card Be a Vi
+2026-09-28 20:21:03 - BANK: DONE. New: 6
