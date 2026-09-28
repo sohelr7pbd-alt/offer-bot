@@ -7013,3 +7013,12 @@ Bank of America $400-$2,500 Busi
 
 [Northern KY] University of Kent
 2026-09-28 06:04:11 - BANK: DONE. New: 1
+2026-09-28 13:57:12 - BANK: === BANK RUN START ===
+2026-09-28 13:57:14 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-28 13:57:15 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-28 13:57:15 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-28 13:57:15 - BANK: RSS OK: 9
+2026-09-28 13:57:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten: $150 Bonus For Citi Str
+2026-09-28 13:57:18 - BANK: DONE. New: 1
