@@ -7073,3 +7073,15 @@ AmEx Offers: JetBlue, Spend $400
 
 U.S. Bank Launches Two New Busin
 2026-09-29 12:54:49 - BANK: DONE. New: 1
+2026-09-29 18:21:38 - BANK: === BANK RUN START ===
+2026-09-29 18:21:40 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-09-29 18:21:42 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-09-29 18:21:42 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-09-29 18:21:42 - BANK: RSS OK: 8
+2026-09-29 18:21:42 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+U.S. Bank $400-$1,500 Business C
+2026-09-29 18:21:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Why the Nerds Give This Hotel Cr
+2026-09-29 18:21:46 - BANK: DONE. New: 2
