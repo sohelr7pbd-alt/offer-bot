@@ -7158,3 +7158,12 @@ htt
 
 A Slopeside Park City Resort You
 2026-09-30 22:36:18 - BANK: DONE. New: 4
+2026-10-01 01:30:19 - BANK: === BANK RUN START ===
+2026-10-01 01:30:21 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-01 01:30:22 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-01 01:30:22 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-01 01:30:22 - BANK: RSS OK: 8
+2026-10-01 01:30:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Capital One Shopping: $29
+2026-10-01 01:30:25 - BANK: DONE. New: 1
