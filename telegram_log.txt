@@ -7236,3 +7236,15 @@ United Credit Cards Launch New W
 
 AmEx Offers: Get 10-45% Back On 
 2026-10-02 15:11:07 - BANK: DONE. New: 1
+2026-10-02 19:57:21 - BANK: === BANK RUN START ===
+2026-10-02 19:57:26 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-02 19:57:27 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-02 19:57:27 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-02 19:57:27 - BANK: RSS OK: 7
+2026-10-02 19:57:27 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase United Explorer 75,000-90,
+2026-10-02 19:57:30 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase, IHG Add $350-Annual-Fee C
+2026-10-02 19:57:32 - BANK: DONE. New: 2
