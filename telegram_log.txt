@@ -7305,3 +7305,15 @@ Chase IHG Referrals To Return 10
 
 [OH, KY, IN] CinFed Credit Union
 2026-10-03 17:33:57 - BANK: DONE. New: 3
+2026-10-03 20:08:39 - BANK: === BANK RUN START ===
+2026-10-03 20:08:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-03 20:08:42 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-03 20:08:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-03 20:08:43 - BANK: RSS OK: 13
+2026-10-03 20:08:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IA] Community Choice Credit Uni
+2026-10-03 20:08:45 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[AZ] Landings Credit Union $200 
+2026-10-03 20:08:47 - BANK: DONE. New: 2
