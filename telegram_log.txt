@@ -7410,3 +7410,18 @@ Chase To Make Changes To Chase I
 
 [TX] Education Credit Union $123
 2026-10-04 21:37:45 - BANK: DONE. New: 6
+2026-10-05 00:08:10 - BANK: === BANK RUN START ===
+2026-10-05 00:08:12 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-05 00:08:13 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-05 00:08:13 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-05 00:08:13 - BANK: RSS OK: 14
+2026-10-05 00:08:13 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Staples: 100% Back In Points On 
+2026-10-05 00:08:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[GA only] Delta Community Credit
+2026-10-05 00:08:18 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Staples: No Purchase Fee On $200
+2026-10-05 00:08:20 - BANK: DONE. New: 3
