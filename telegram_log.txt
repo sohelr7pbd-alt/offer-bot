@@ -7443,3 +7443,33 @@ Staples: No Purchase Fee On $200
 
 [CT, West Hartford, Ware, MA Onl
 2026-10-05 12:54:09 - BANK: DONE. New: 1
+2026-10-06 01:40:09 - BANK: === BANK RUN START ===
+2026-10-06 01:40:11 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-06 01:40:12 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-06 01:40:12 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-06 01:40:12 - BANK: RSS OK: 11
+2026-10-06 01:40:13 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Primis Debit Card To Stop Earnin
+2026-10-06 01:40:15 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Launches ‘Discover
+2026-10-06 01:40:17 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers (Marriot 
+2026-10-06 01:40:20 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Aeroplan Card Now Lets You
+2026-10-06 01:40:22 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Amazon, Spend $150 
+2026-10-06 01:40:25 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Sapphire Reserve 1.15% Pay
+2026-10-06 01:40:27 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopBack Shopping Portal $25+ In
+2026-10-06 01:40:29 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Venmo Credit Card Revises Reward
+2026-10-06 01:40:31 - BANK: DONE. New: 8
