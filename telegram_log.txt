@@ -7512,3 +7512,18 @@ Discover it Secured Card Unveils
 2026-10-07 00:03:09 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-10-07 00:03:09 - BANK: RSS OK: 10
 2026-10-07 00:03:09 - BANK: DONE. New: 0
+2026-10-07 06:01:47 - BANK: === BANK RUN START ===
+2026-10-07 06:01:49 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-07 06:01:51 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-07 06:01:51 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-07 06:01:51 - BANK: RSS OK: 12
+2026-10-07 06:01:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten: Get 5% Back on Giftcard
+2026-10-07 06:01:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten $425 Bonus when signing 
+2026-10-07 06:01:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten Adds Bank Of America Car
+2026-10-07 06:01:58 - BANK: DONE. New: 3
