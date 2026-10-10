@@ -7699,3 +7699,33 @@ Citi Adds Pop Up Eligibility For
 
 [MO] Sterling Bank $250 Checking
 2026-10-10 20:41:43 - BANK: DONE. New: 7
+2026-10-10 23:56:21 - BANK: === BANK RUN START ===
+2026-10-10 23:56:23 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-10 23:56:24 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-10 23:56:24 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-10 23:56:24 - BANK: RSS OK: 15
+2026-10-10 23:56:25 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Capital One Offers: eBay,
+2026-10-10 23:56:27 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Chase Business Checking: 
+2026-10-10 23:56:29 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Revolut Launches New Credit Card
+2026-10-10 23:56:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IN, IL, WI] CIBM Bank $300/$600
+2026-10-10 23:56:34 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA Only] Foothill Credit Union 
+2026-10-10 23:56:37 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[PA only] TruMark Financial $300
+2026-10-10 23:56:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IL] Eagle Valley Bank $250 Chec
+2026-10-10 23:56:41 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[GA only] Delta Community Credit
+2026-10-10 23:56:43 - BANK: DONE. New: 8
