@@ -7672,3 +7672,30 @@ Chase Business Total Checking Up
 
 [SC, NC, GA, TN, VA] Sharonview 
 2026-10-10 17:39:29 - BANK: DONE. New: 1
+2026-10-10 20:41:21 - BANK: === BANK RUN START ===
+2026-10-10 20:41:23 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-10 20:41:24 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-10 20:41:24 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-10 20:41:24 - BANK: RSS OK: 13
+2026-10-10 20:41:25 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[AZ] Pima Federal Credit Union $
+2026-10-10 20:41:28 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[TX Only] Texas Trust Credit Uni
+2026-10-10 20:41:30 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[GA only] Delta Community Credit
+2026-10-10 20:41:33 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Capital One Travel (Busin
+2026-10-10 20:41:36 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: ITA Airways, Spend 
+2026-10-10 20:41:38 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Adds Pop Up Eligibility For
+2026-10-10 20:41:41 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[MO] Sterling Bank $250 Checking
+2026-10-10 20:41:43 - BANK: DONE. New: 7
