@@ -7741,3 +7741,18 @@ Revolut Launches New Credit Card
 2026-10-11 10:01:44 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-10-11 10:01:44 - BANK: RSS OK: 15
 2026-10-11 10:01:44 - BANK: DONE. New: 0
+2026-10-11 16:19:31 - BANK: === BANK RUN START ===
+2026-10-11 16:19:33 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-11 16:19:34 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-11 16:19:34 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-11 16:19:34 - BANK: RSS OK: 13
+2026-10-11 16:19:34 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[OK] USE Federal Credit Union $1
+2026-10-11 16:19:37 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[KY, TN, IL, IN, MO] CFSB $100 C
+2026-10-11 16:19:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Capital One Shopping/Offe
+2026-10-11 16:19:41 - BANK: DONE. New: 3
