@@ -7756,3 +7756,36 @@ Revolut Launches New Credit Card
 
 [YMMV] Capital One Shopping/Offe
 2026-10-11 16:19:41 - BANK: DONE. New: 3
+2026-10-11 20:22:22 - BANK: === BANK RUN START ===
+2026-10-11 20:22:25 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-11 20:22:26 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-11 20:22:26 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-11 20:22:26 - BANK: RSS OK: 11
+2026-10-11 20:22:27 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IA] Community State Bank $400 C
+2026-10-11 20:22:29 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[OH, Select Counties only] Stark
+2026-10-11 20:22:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IA, NE] Cobalt Credit Union $40
+2026-10-11 20:22:34 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[HI] First Hawaiian Bank $350 Ch
+2026-10-11 20:22:36 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Staples: 100% Back In Points On 
+2026-10-11 20:22:39 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[FL] Community Credit Union Flor
+2026-10-11 20:22:41 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA only] SAFE Credit Union $300
+2026-10-11 20:22:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[AZ, NV, UT] America First Credi
+2026-10-11 20:22:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Hertz, Spend $350 &
+2026-10-11 20:22:48 - BANK: DONE. New: 9
