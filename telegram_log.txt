@@ -7852,3 +7852,33 @@ Best Posts Last Week: New Citi P
 2026-10-13 17:06:09 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-10-13 17:06:09 - BANK: RSS OK: 5
 2026-10-13 17:06:09 - BANK: DONE. New: 0
+2026-10-13 21:50:47 - BANK: === BANK RUN START ===
+2026-10-13 21:50:49 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-13 21:50:50 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-13 21:50:51 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-13 21:50:51 - BANK: RSS OK: 8
+2026-10-13 21:50:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Bank of America Fined $1.2 Billi
+2026-10-13 21:50:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Last Day] SoFi Crypto: Transfer
+2026-10-13 21:50:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmExGiftCard.com: 100% Off Purch
+2026-10-13 21:50:58 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA, UT In Branch] Columbia Bank
+2026-10-13 21:51:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+(Update) Wells Fargo Premier $2,
+2026-10-13 21:51:03 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers: Get 10% Back On Am
+2026-10-13 21:51:06 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers/BofA: 5% at eBay, u
+2026-10-13 21:51:08 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+5 Things to Know About the Fetch
+2026-10-13 21:51:10 - BANK: DONE. New: 8
