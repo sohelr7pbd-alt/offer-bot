@@ -7988,3 +7988,15 @@ U.S. Bank Offers: Get 10% Back O
 
 What Credit Score Do You Need fo
 2026-10-15 19:09:33 - BANK: DONE. New: 4
+2026-10-15 22:20:00 - BANK: === BANK RUN START ===
+2026-10-15 22:20:02 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-15 22:20:04 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-15 22:20:04 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-15 22:20:04 - BANK: RSS OK: 9
+2026-10-15 22:20:04 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Up To 51% 
+2026-10-15 22:20:07 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: 10% Back at Hotels.
+2026-10-15 22:20:09 - BANK: DONE. New: 2
