@@ -8045,3 +8045,12 @@ Verizon Credit Card $150 Signup
 
 [MN, WI, MI, WI, FL, GA] Wings C
 2026-10-16 18:04:10 - BANK: DONE. New: 3
+2026-10-16 21:10:05 - BANK: === BANK RUN START ===
+2026-10-16 21:10:06 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-16 21:10:08 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-16 21:10:08 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-16 21:10:08 - BANK: RSS OK: 11
+2026-10-16 21:10:09 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Should I Apply For The Southwest
+2026-10-16 21:10:11 - BANK: DONE. New: 1
