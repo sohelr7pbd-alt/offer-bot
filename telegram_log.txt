@@ -8147,3 +8147,12 @@ Should I Apply For The Southwest
 
 [IA only] Community Bank & Trust
 2026-10-18 10:02:17 - BANK: DONE. New: 1
+2026-10-18 14:01:23 - BANK: === BANK RUN START ===
+2026-10-18 14:01:24 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-18 14:01:25 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-18 14:01:25 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-18 14:01:25 - BANK: RSS OK: 12
+2026-10-18 14:01:26 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[WA, ID & OR only] BECU $300 Che
+2026-10-18 14:01:28 - BANK: DONE. New: 1
