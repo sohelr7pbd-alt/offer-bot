@@ -8138,3 +8138,12 @@ Should I Apply For The Southwest
 2026-10-18 05:55:13 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-10-18 05:55:13 - BANK: RSS OK: 10
 2026-10-18 05:55:13 - BANK: DONE. New: 0
+2026-10-18 10:02:12 - BANK: === BANK RUN START ===
+2026-10-18 10:02:13 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-18 10:02:15 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-18 10:02:15 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-18 10:02:15 - BANK: RSS OK: 11
+2026-10-18 10:02:15 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[IA only] Community Bank & Trust
+2026-10-18 10:02:17 - BANK: DONE. New: 1
