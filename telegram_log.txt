@@ -8156,3 +8156,15 @@ Should I Apply For The Southwest
 
 [WA, ID & OR only] BECU $300 Che
 2026-10-18 14:01:28 - BANK: DONE. New: 1
+2026-10-18 17:23:40 - BANK: === BANK RUN START ===
+2026-10-18 17:23:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-18 17:23:43 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-18 17:23:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-18 17:23:43 - BANK: RSS OK: 13
+2026-10-18 17:23:44 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+(Update) Chase Announces Select 
+2026-10-18 17:23:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[MI only] United Financial Credi
+2026-10-18 17:23:48 - BANK: DONE. New: 2
