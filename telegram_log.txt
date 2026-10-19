@@ -8222,3 +8222,33 @@ Best Posts Last Week: Chase $900
 
 [TN, GA, AL] FirstBank $500 Chec
 2026-10-19 15:05:31 - BANK: DONE. New: 2
+2026-10-19 20:35:38 - BANK: === BANK RUN START ===
+2026-10-19 20:35:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-19 20:35:42 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-19 20:35:42 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-19 20:35:42 - BANK: RSS OK: 9
+2026-10-19 20:35:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+IRS Rules To Allow Direct Credit
+2026-10-19 20:35:45 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers (Platinum
+2026-10-19 20:35:47 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Best Buy, Spend $25
+2026-10-19 20:35:50 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Enterprise Car Rent
+2026-10-19 20:35:52 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx Offers: Get 10% Back On She
+2026-10-19 20:35:55 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers: Get 15% 
+2026-10-19 20:35:57 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+U.S. Bank/Wells Fargo Offers: Sa
+2026-10-19 20:35:59 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: 25% Back a
+2026-10-19 20:36:01 - BANK: DONE. New: 8
