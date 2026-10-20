@@ -8288,3 +8288,22 @@ Capital One Shopping: 25% Back a
 
 [Targeted] AmEx Offer: The Leadi
 2026-10-20 17:59:14 - BANK: DONE. New: 1
+2026-10-20 21:17:52 - BANK: === BANK RUN START ===
+2026-10-20 21:17:54 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-20 21:17:55 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-20 21:17:56 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-20 21:17:56 - BANK: RSS OK: 7
+2026-10-20 21:17:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Venture X Business U
+2026-10-20 21:17:59 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Chase Amazon Card Spe
+2026-10-20 21:18:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+E*Trade $400 Checking Bonus
+http
+2026-10-20 21:18:04 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Domino’s: Pay With Paze & Get 
+2026-10-20 21:18:06 - BANK: DONE. New: 4
