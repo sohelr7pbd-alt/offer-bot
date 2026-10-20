@@ -8279,3 +8279,12 @@ Capital One Shopping: 25% Back a
 2026-10-20 13:06:27 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-10-20 13:06:27 - BANK: RSS OK: 6
 2026-10-20 13:06:27 - BANK: DONE. New: 0
+2026-10-20 17:59:08 - BANK: === BANK RUN START ===
+2026-10-20 17:59:10 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-20 17:59:12 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-20 17:59:12 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-20 17:59:12 - BANK: RSS OK: 5
+2026-10-20 17:59:12 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offer: The Leadi
+2026-10-20 17:59:14 - BANK: DONE. New: 1
