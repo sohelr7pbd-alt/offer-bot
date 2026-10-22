@@ -8415,3 +8415,12 @@ Discover it $200 Signup Bonus +
 
 AmEx Adds Airbnb Perks, Restrict
 2026-10-22 18:55:36 - BANK: DONE. New: 4
+2026-10-22 21:58:40 - BANK: === BANK RUN START ===
+2026-10-22 21:58:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-22 21:58:42 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-22 21:58:42 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-22 21:58:42 - BANK: RSS OK: 13
+2026-10-22 21:58:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Atmos Credit Cards Increase Welc
+2026-10-22 21:58:45 - BANK: DONE. New: 1
