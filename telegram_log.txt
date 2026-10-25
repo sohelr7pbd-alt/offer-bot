@@ -8562,3 +8562,24 @@ Chase/U.S. Bank Offers: Get 5-7%
 
 [PA In Branch] Mid Penn Bank $25
 2026-10-25 19:13:06 - BANK: DONE. New: 1
+2026-10-25 21:47:54 - BANK: === BANK RUN START ===
+2026-10-25 21:47:56 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-25 21:47:57 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-25 21:47:57 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-25 21:47:57 - BANK: RSS OK: 11
+2026-10-25 21:47:58 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[MA Only] Liberty Bank (lbcu.org
+2026-10-25 21:48:01 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CT, RI only] Centreville Bank $
+2026-10-25 21:48:03 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi ThankYou Points 10% Transfe
+2026-10-25 21:48:06 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Adds Copa ConnectMiles As 1
+2026-10-25 21:48:08 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[UT Only] UCCU $300 Checking Bon
+2026-10-25 21:48:10 - BANK: DONE. New: 5
