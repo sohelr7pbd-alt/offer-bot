@@ -8553,3 +8553,12 @@ AmEx Offers: Virgin Atlantic, Sp
 
 Chase/U.S. Bank Offers: Get 5-7%
 2026-10-25 16:22:10 - BANK: DONE. New: 3
+2026-10-25 19:13:01 - BANK: === BANK RUN START ===
+2026-10-25 19:13:02 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-25 19:13:04 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-25 19:13:04 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-25 19:13:04 - BANK: RSS OK: 9
+2026-10-25 19:13:04 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[PA In Branch] Mid Penn Bank $25
+2026-10-25 19:13:06 - BANK: DONE. New: 1
