@@ -8836,3 +8836,18 @@ SoFi Launches SoFi Earn – 4.4%
 
 U.S. Bank Double Cashback On Cas
 2026-10-30 20:04:30 - BANK: DONE. New: 3
+2026-10-30 23:48:08 - BANK: === BANK RUN START ===
+2026-10-30 23:48:09 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-30 23:48:10 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-30 23:48:10 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-30 23:48:10 - BANK: RSS OK: 8
+2026-10-30 23:48:12 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+VanillaGift.com: 100% Off Purcha
+2026-10-30 23:48:14 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Offers: Dunkin/Wendy
+2026-10-30 23:48:17 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Mercury (Fintech) $500 Business 
+2026-10-30 23:48:19 - BANK: DONE. New: 3
