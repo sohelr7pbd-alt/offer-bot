@@ -8821,3 +8821,18 @@ Citi $325/$475/$500/$2,000/$4,00
 
 5 Things to Know About the Fold 
 2026-10-30 15:24:36 - BANK: DONE. New: 4
+2026-10-30 20:04:17 - BANK: === BANK RUN START ===
+2026-10-30 20:04:22 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-10-30 20:04:23 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-10-30 20:04:23 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-10-30 20:04:23 - BANK: RSS OK: 8
+2026-10-30 20:04:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Chase INK Cash/Unlimi
+2026-10-30 20:04:26 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+SoFi Launches SoFi Earn – 4.4%
+2026-10-30 20:04:28 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+U.S. Bank Double Cashback On Cas
+2026-10-30 20:04:30 - BANK: DONE. New: 3
