@@ -9076,3 +9076,15 @@ ShopRite: Purchase $100 In Gift
 
 Citi AAdvantage Platinum Select 
 2026-11-04 02:20:48 - BANK: DONE. New: 4
+2026-11-04 17:37:47 - BANK: === BANK RUN START ===
+2026-11-04 17:37:49 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-04 17:37:51 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-04 17:37:51 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-04 17:37:51 - BANK: RSS OK: 9
+2026-11-04 17:37:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers: Tim Hort
+2026-11-04 17:37:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Ameriprise Premier Visa – 2.5%
+2026-11-04 17:37:56 - BANK: DONE. New: 2
