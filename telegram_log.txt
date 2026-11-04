@@ -9058,3 +9058,21 @@ AmEx Offers: BBC.com, Spend $49.
 
 Chase Southwest Personal Cards: 
 2026-11-03 22:08:07 - BANK: DONE. New: 5
+2026-11-04 02:20:35 - BANK: === BANK RUN START ===
+2026-11-04 02:20:36 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-04 02:20:38 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-04 02:20:38 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-04 02:20:38 - BANK: RSS OK: 13
+2026-11-04 02:20:38 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers: Marriott
+2026-11-04 02:20:41 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Adds Copa As 2:1.5 T
+2026-11-04 02:20:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopRite: Purchase $100 In Gift 
+2026-11-04 02:20:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi AAdvantage Platinum Select 
+2026-11-04 02:20:48 - BANK: DONE. New: 4
