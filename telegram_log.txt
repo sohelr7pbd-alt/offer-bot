@@ -9250,3 +9250,12 @@ Capital One Offers: Amazon, Trad
 
 [NY] Hudson Valley Credit Union 
 2026-11-07 20:27:02 - BANK: DONE. New: 2
+2026-11-07 23:53:20 - BANK: === BANK RUN START ===
+2026-11-07 23:53:21 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-07 23:53:23 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-07 23:53:23 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-07 23:53:23 - BANK: RSS OK: 8
+2026-11-07 23:53:23 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[FL, NJ, NY] Popular Bank $600 B
+2026-11-07 23:53:25 - BANK: DONE. New: 1
