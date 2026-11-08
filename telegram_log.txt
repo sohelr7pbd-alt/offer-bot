@@ -9259,3 +9259,9 @@ Capital One Offers: Amazon, Trad
 
 [FL, NJ, NY] Popular Bank $600 B
 2026-11-07 23:53:25 - BANK: DONE. New: 1
+2026-11-08 03:04:08 - BANK: === BANK RUN START ===
+2026-11-08 03:04:10 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-08 03:04:11 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-08 03:04:11 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-08 03:04:11 - BANK: RSS OK: 8
+2026-11-08 03:04:11 - BANK: DONE. New: 0
