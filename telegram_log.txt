@@ -9280,3 +9280,21 @@ Capital One Offers: Amazon, Trad
 
 [SD & MN, In Branch Only] Americ
 2026-11-08 16:45:52 - BANK: DONE. New: 1
+2026-11-08 20:50:45 - BANK: === BANK RUN START ===
+2026-11-08 20:50:47 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-08 20:50:48 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-08 20:50:48 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-08 20:50:48 - BANK: RSS OK: 10
+2026-11-08 20:50:48 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CO Only] Zing Credit Union $300
+2026-11-08 20:50:51 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Target.com: Get $10 Back With $1
+2026-11-08 20:50:53 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+AmEx/Cit Offers: Get 10% Back On
+2026-11-08 20:50:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Target: Purchase $100+ In Qualif
+2026-11-08 20:50:58 - BANK: DONE. New: 4
