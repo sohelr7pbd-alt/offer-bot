@@ -9307,3 +9307,12 @@ Target: Purchase $100+ In Qualif
 
 AmEx/Chase/BofA/etc: YouTube TV,
 2026-11-09 00:14:40 - BANK: DONE. New: 1
+2026-11-09 06:32:04 - BANK: === BANK RUN START ===
+2026-11-09 06:32:05 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-09 06:32:07 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-09 06:32:07 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-09 06:32:07 - BANK: RSS OK: 11
+2026-11-09 06:32:07 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[TN only] Pinnacle Financial Par
+2026-11-09 06:32:10 - BANK: DONE. New: 1
