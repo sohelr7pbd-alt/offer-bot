@@ -9391,3 +9391,24 @@ Capital One Launches New Venture
 
 Rakuten: $170 Bonus For Citi Str
 2026-11-11 16:16:21 - BANK: DONE. New: 1
+2026-11-11 22:42:10 - BANK: === BANK RUN START ===
+2026-11-11 22:42:12 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-11 22:42:13 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-11 22:42:13 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-11 22:42:13 - BANK: RSS OK: 10
+2026-11-11 22:42:14 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Offers/BofA: Get 10% Back 
+2026-11-11 22:42:16 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Up To 21% 
+2026-11-11 22:42:19 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi AAdvantage Executive 125,00
+2026-11-11 22:42:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi, AmEx, Wells, U.S. Bank Off
+2026-11-11 22:42:24 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi Offers: $5 off $25 Starbuck
+2026-11-11 22:42:26 - BANK: DONE. New: 5
