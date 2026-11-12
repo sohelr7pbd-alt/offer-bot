@@ -9433,3 +9433,15 @@ Rakuten: $175 Bonus For Citi Str
 
 [Expired] Citi AAdvantage Execut
 2026-11-12 11:45:07 - BANK: DONE. New: 1
+2026-11-12 19:15:56 - BANK: === BANK RUN START ===
+2026-11-12 19:15:57 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-12 19:15:59 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-12 19:15:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-12 19:15:59 - BANK: RSS OK: 12
+2026-11-12 19:15:59 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Bank Of America Offering Preferr
+2026-11-12 19:16:02 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+5 Things to Know About the Fable
+2026-11-12 19:16:04 - BANK: DONE. New: 2
