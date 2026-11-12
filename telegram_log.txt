@@ -9412,3 +9412,15 @@ Citi, AmEx, Wells, U.S. Bank Off
 
 Citi Offers: $5 off $25 Starbuck
 2026-11-11 22:42:26 - BANK: DONE. New: 5
+2026-11-12 03:27:57 - BANK: === BANK RUN START ===
+2026-11-12 03:27:59 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-12 03:28:00 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-12 03:28:00 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-12 03:28:00 - BANK: RSS OK: 9
+2026-11-12 03:28:00 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citi, AmEx, Wells, U.S. Bank Off
+2026-11-12 03:28:03 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten: $175 Bonus For Citi Str
+2026-11-12 03:28:05 - BANK: DONE. New: 2
