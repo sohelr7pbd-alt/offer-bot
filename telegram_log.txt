@@ -9445,3 +9445,24 @@ Bank Of America Offering Preferr
 
 5 Things to Know About the Fable
 2026-11-12 19:16:04 - BANK: DONE. New: 2
+2026-11-13 00:27:57 - BANK: === BANK RUN START ===
+2026-11-13 00:27:58 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-13 00:28:00 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-13 00:28:00 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-13 00:28:00 - BANK: RSS OK: 12
+2026-11-13 00:28:00 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Aeroplan Card: 60,000 + 1.
+2026-11-13 00:28:03 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Apple Card Signup Bonus: Double 
+2026-11-13 00:28:05 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Instacart: Free Turkey Up To $40
+2026-11-13 00:28:07 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Bank of America & Allegiant Exte
+2026-11-13 00:28:10 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+5 Things to Know About the Ameri
+2026-11-13 00:28:12 - BANK: DONE. New: 5
