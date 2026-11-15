@@ -9544,3 +9544,15 @@ Capital One Shopping: Get 7-14%
 
 Chase Launches New Premium IHG C
 2026-11-15 17:29:05 - BANK: DONE. New: 1
+2026-11-15 22:01:28 - BANK: === BANK RUN START ===
+2026-11-15 22:01:29 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-15 22:01:30 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-15 22:01:30 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-15 22:01:30 - BANK: RSS OK: 7
+2026-11-15 22:01:31 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One: 15% Transfer Bonus 
+2026-11-15 22:01:33 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Chase Business Checking: 
+2026-11-15 22:01:35 - BANK: DONE. New: 2
