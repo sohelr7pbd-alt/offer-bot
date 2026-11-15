@@ -9526,3 +9526,12 @@ Bank of America & Allegiant Exte
 
 Capital One Shopping: Get 7-14% 
 2026-11-15 03:00:15 - BANK: DONE. New: 1
+2026-11-15 10:55:12 - BANK: === BANK RUN START ===
+2026-11-15 10:55:13 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-15 10:55:14 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-15 10:55:14 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-15 10:55:14 - BANK: RSS OK: 8
+2026-11-15 10:55:15 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Expired] Capital One Shopping: 
+2026-11-15 10:55:17 - BANK: DONE. New: 1
