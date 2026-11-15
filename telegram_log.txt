@@ -9517,3 +9517,12 @@ Bank of America & Allegiant Exte
 2026-11-14 23:31:49 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-11-14 23:31:49 - BANK: RSS OK: 8
 2026-11-14 23:31:49 - BANK: DONE. New: 0
+2026-11-15 03:00:10 - BANK: === BANK RUN START ===
+2026-11-15 03:00:11 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-15 03:00:12 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-15 03:00:12 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-15 03:00:12 - BANK: RSS OK: 8
+2026-11-15 03:00:13 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping: Get 7-14% 
+2026-11-15 03:00:15 - BANK: DONE. New: 1
