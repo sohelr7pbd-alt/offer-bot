@@ -9637,3 +9637,18 @@ Capital One Shopping: 25% Back o
 
 5 Things to Know About the Sunoc
 2026-11-17 19:53:44 - BANK: DONE. New: 4
+2026-11-18 01:55:46 - BANK: === BANK RUN START ===
+2026-11-18 01:55:47 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-18 01:55:48 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-18 01:55:48 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-18 01:55:48 - BANK: RSS OK: 12
+2026-11-18 01:55:49 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopBack Shopping Portal $15 Sig
+2026-11-18 01:55:52 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Alliant Credit Union $200 Checki
+2026-11-18 01:55:54 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Ultimate Rewards: 40% Tran
+2026-11-18 01:55:56 - BANK: DONE. New: 3
