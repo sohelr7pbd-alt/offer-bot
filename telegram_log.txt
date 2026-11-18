@@ -9661,3 +9661,21 @@ Chase Ultimate Rewards: 40% Tran
 
 ShopBack Shopping Portal $20 Sig
 2026-11-18 09:27:50 - BANK: DONE. New: 1
+2026-11-18 18:19:55 - BANK: === BANK RUN START ===
+2026-11-18 18:19:57 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-18 18:19:59 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-18 18:19:59 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-18 18:19:59 - BANK: RSS OK: 14
+2026-11-18 18:19:59 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[11/18] BestBuy.com: Buy $100 Am
+2026-11-18 18:20:02 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] AmEx Offers: Mcdonald
+2026-11-18 18:20:04 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping/Offers: Up 
+2026-11-18 18:20:06 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Chase Adds Qantas, Cathay Pacifi
+2026-11-18 18:20:08 - BANK: DONE. New: 4
