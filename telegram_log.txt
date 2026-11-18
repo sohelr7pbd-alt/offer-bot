@@ -9652,3 +9652,12 @@ Alliant Credit Union $200 Checki
 
 Chase Ultimate Rewards: 40% Tran
 2026-11-18 01:55:56 - BANK: DONE. New: 3
+2026-11-18 09:27:45 - BANK: === BANK RUN START ===
+2026-11-18 09:27:46 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-18 09:27:48 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-18 09:27:48 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-18 09:27:48 - BANK: RSS OK: 11
+2026-11-18 09:27:48 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopBack Shopping Portal $20 Sig
+2026-11-18 09:27:50 - BANK: DONE. New: 1
