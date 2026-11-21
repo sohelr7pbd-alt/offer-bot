@@ -9766,3 +9766,15 @@ Chase Ultimate Rewards: 10-15% o
 
 [Targeted] Increased Bank Of Ame
 2026-11-20 20:49:46 - BANK: DONE. New: 4
+2026-11-21 01:51:26 - BANK: === BANK RUN START ===
+2026-11-21 01:51:28 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-21 01:51:29 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-21 01:51:29 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-21 01:51:29 - BANK: RSS OK: 8
+2026-11-21 01:51:30 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+T-Mobile Launches Credit Card Wi
+2026-11-21 01:51:32 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Offers: 18% Back at 
+2026-11-21 01:51:34 - BANK: DONE. New: 2
