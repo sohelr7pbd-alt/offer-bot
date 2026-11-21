@@ -9790,3 +9790,12 @@ Capital One Offers: 18% Back at
 2026-11-21 16:29:41 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-11-21 16:29:41 - BANK: RSS OK: 9
 2026-11-21 16:29:41 - BANK: DONE. New: 0
+2026-11-21 21:50:29 - BANK: === BANK RUN START ===
+2026-11-21 21:50:32 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-21 21:50:33 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-21 21:50:33 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-21 21:50:33 - BANK: RSS OK: 8
+2026-11-21 21:50:34 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA Only] Heritage Community Cre
+2026-11-21 21:50:36 - BANK: DONE. New: 1
