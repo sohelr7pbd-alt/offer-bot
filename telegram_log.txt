@@ -9778,3 +9778,9 @@ T-Mobile Launches Credit Card Wi
 
 Capital One Offers: 18% Back at 
 2026-11-21 01:51:34 - BANK: DONE. New: 2
+2026-11-21 08:55:47 - BANK: === BANK RUN START ===
+2026-11-21 08:55:48 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-21 08:55:50 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-21 08:55:50 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-21 08:55:50 - BANK: RSS OK: 8
+2026-11-21 08:55:50 - BANK: DONE. New: 0
