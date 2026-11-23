@@ -9826,3 +9826,18 @@ Chase/U.S. Bank Offers: Get 5-7%
 2026-11-22 22:12:31 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
 2026-11-22 22:12:31 - BANK: RSS OK: 7
 2026-11-22 22:12:31 - BANK: DONE. New: 0
+2026-11-23 02:45:40 - BANK: === BANK RUN START ===
+2026-11-23 02:45:41 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-23 02:45:43 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-23 02:45:43 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-23 02:45:43 - BANK: RSS OK: 8
+2026-11-23 02:45:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[CA only] KeyPoint Credit Union 
+2026-11-23 02:45:46 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[WI, MN Only] Westconsin Credit 
+2026-11-23 02:45:48 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopRite: Purchase $100 In Gift 
+2026-11-23 02:45:50 - BANK: DONE. New: 3
