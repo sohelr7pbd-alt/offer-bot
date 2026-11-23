@@ -9841,3 +9841,9 @@ Chase/U.S. Bank Offers: Get 5-7%
 
 ShopRite: Purchase $100 In Gift 
 2026-11-23 02:45:50 - BANK: DONE. New: 3
+2026-11-23 11:27:10 - BANK: === BANK RUN START ===
+2026-11-23 11:27:12 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-23 11:27:13 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-23 11:27:13 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-23 11:27:13 - BANK: RSS OK: 8
+2026-11-23 11:27:13 - BANK: DONE. New: 0
