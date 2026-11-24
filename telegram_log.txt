@@ -9896,3 +9896,18 @@ AmEx Offers: Shoprite, Spend $85
 
 Etihad’s New Credit Cards Are 
 2026-11-24 06:34:11 - BANK: DONE. New: 3
+2026-11-24 18:12:16 - BANK: === BANK RUN START ===
+2026-11-24 18:12:18 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-24 18:12:19 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-24 18:12:19 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-24 18:12:19 - BANK: RSS OK: 6
+2026-11-24 18:12:20 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Citigold Making Changes To $200/
+2026-11-24 18:12:22 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+ShopBack Shopping Portal $30 Sig
+2026-11-24 18:12:25 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[Targeted] Happen Bank (Formerly
+2026-11-24 18:12:27 - BANK: DONE. New: 3
