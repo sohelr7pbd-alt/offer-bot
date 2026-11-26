@@ -9968,3 +9968,18 @@ Highlight Deals For U.S. Bank Bo
 
 TheGiftCardShop.com: 100% Off $5
 2026-11-26 12:36:23 - BANK: DONE. New: 1
+2026-11-26 21:52:50 - BANK: === BANK RUN START ===
+2026-11-26 21:52:51 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-26 21:52:52 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-26 21:52:52 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-26 21:52:52 - BANK: RSS OK: 7
+2026-11-26 21:52:53 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+[YMMV] Chase Marriott Bonvoy Car
+2026-11-26 21:52:56 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten Adds More Citi Cards To 
+2026-11-26 21:52:58 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Giftcards.com: Get Bonus $10 Gif
+2026-11-26 21:53:00 - BANK: DONE. New: 3
