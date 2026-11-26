@@ -9959,3 +9959,12 @@ Highlight Deals For U.S. Bank Bo
 
 [Live 11/27] Starbucks: Purchase
 2026-11-26 03:03:09 - BANK: DONE. New: 1
+2026-11-26 12:36:18 - BANK: === BANK RUN START ===
+2026-11-26 12:36:19 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-26 12:36:21 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-26 12:36:21 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-26 12:36:21 - BANK: RSS OK: 6
+2026-11-26 12:36:21 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+TheGiftCardShop.com: 100% Off $5
+2026-11-26 12:36:23 - BANK: DONE. New: 1
