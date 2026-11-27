@@ -10007,3 +10007,21 @@ Neobanc: Pay Rent/Bills Using Cr
 
 Staples: 100% Back In Points On 
 2026-11-27 13:16:43 - BANK: DONE. New: 1
+2026-11-27 21:59:32 - BANK: === BANK RUN START ===
+2026-11-27 21:59:33 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-27 21:59:34 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-27 21:59:34 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-27 21:59:34 - BANK: RSS OK: 5
+2026-11-27 21:59:35 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+VanillaGift.com: 100% Off Purcha
+2026-11-27 21:59:37 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Capital One Shopping/Offers: Get
+2026-11-27 21:59:40 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+Rakuten Adds More Citi Cards To 
+2026-11-27 21:59:43 - BANK: SMS Sent: 🏦 BANK OFFER ALERT 🏦
+
+H-E-B: Buy $100 Visa/MC/Amex Gif
+2026-11-27 21:59:45 - BANK: DONE. New: 4
