@@ -10025,3 +10025,10 @@ Rakuten Adds More Citi Cards To
 
 H-E-B: Buy $100 Visa/MC/Amex Gif
 2026-11-27 21:59:45 - BANK: DONE. New: 4
+2026-11-28 03:43:48 - BANK: === BANK RUN START ===
+2026-11-28 03:43:48 - BANK: RSS BLOCK: https://www.doctorofcredit.com/feed/
+2026-11-28 03:43:48 - BANK: RSS BLOCK: https://www.bankrate.com/rss/
+2026-11-28 03:43:50 - BANK: RSS BLOCK: https://www.reddit.com/r/churning/.rss
+2026-11-28 03:43:50 - BANK: RSS BLOCK: https://www.reddit.com/r/BankBonuses/.rss
+2026-11-28 03:43:50 - BANK: RSS OK: 1
+2026-11-28 03:43:50 - BANK: DONE. New: 0
